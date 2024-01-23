@@ -1,4 +1,4 @@
-# Bike Sharing
+# House Pricing
 >  Building a regression model to predict the actual value of the prospective properties and decide whether to invest in them or not.
 
 
